@@ -1,4 +1,2 @@
 const a = '111'
-export {
-    a
-}
+console.log(a);
